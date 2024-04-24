@@ -1,0 +1,1 @@
+In my 4-day-long virtual internship at Accenture,an analysis was conducted for a company "Social Buzz" (a fast growing social media and content creation company) using Excel to effectively highlight the top 5 most popular content, the unique categories of content, and the month with the most post.
